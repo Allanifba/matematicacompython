@@ -1,4 +1,7 @@
 # Construindo uma função imputável e gerando um arquivo do tipo .exe
+# Pode ser necessário instalar o pacote pyinstaller >>> No terminal digite: pip install pyinstaller
+# Pode ser necessário instalar o módulo numpy >>> No terminal digite: pip install numpy
+# Para construir um executável digite, no terminal, o comando: pyinstaller --onefile nome_do_arquivo.py
 
 import math
 import numpy as np
